@@ -23,4 +23,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "mcp_stock_prices",
+    "stock-agent-mcp",
 ]
